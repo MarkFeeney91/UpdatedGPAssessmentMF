@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Audio.cpp
+  Display.cpp
+  main.cpp
+D:\source\GP Lab 1 Starter (1)\Lab4\Lab1\Display.h(2,10): error C1083:  Cannot open include file: 'SDL/SDL.h': No such file or directory
+  MainGame.cpp
+D:\source\GP Lab 1 Starter (1)\Lab4\Lab1\MainGame.h(2,10): error C1083:  Cannot open include file: 'SDL\SDL.h': No such file or directory
+  Mesh.cpp
+D:\source\GP Lab 1 Starter (1)\Lab4\Lab1\MainGame.h(2,10): error C1083:  Cannot open include file: 'SDL\SDL.h': No such file or directory
+  obj_loader.cpp
+D:\source\GP Lab 1 Starter (1)\Lab4\Lab1\Mesh.h(2,10): error C1083:  Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Shader.cpp
+D:\source\GP Lab 1 Starter (1)\Lab4\Lab1\obj_loader.h(4,10): error C1083:  Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Texture.cpp
+D:\source\GP Lab 1 Starter (1)\Lab4\Lab1\Shader.h(3,10): error C1083:  Cannot open include file: 'GL\glew.h': No such file or directory
+  Generating Code...
+D:\source\GP Lab 1 Starter (1)\Lab4\Lab1\Texture.h(3,10): error C1083:  Cannot open include file: 'GL\glew.h': No such file or directory
